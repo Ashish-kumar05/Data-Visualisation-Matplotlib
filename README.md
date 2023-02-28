@@ -17,3 +17,4 @@ Bar Chart
 Scatter plot
 Pie charts
 Boxplot
+
