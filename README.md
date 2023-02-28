@@ -10,11 +10,11 @@ Matplotlib is a python library used to create 2D graphs and plots by using pytho
 
 # Important types of plots in Matplotlib
 
-Sub Plots
-Line plot
-Histogram
-Bar Chart
-Scatter plot
-Pie charts
+Sub Plots<br>
+Line plot<br>
+Histogram<br>
+Bar Chart<br>
+Scatter plot<br>
+Pie charts<br>
 Boxplot
 
